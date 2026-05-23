@@ -16,7 +16,7 @@ A **Tkinter desktop GUI** lets the user pick any year or specific week from the 
 
 The final deliverables are a clean, reusable CSV dataset (`steam_yearly_data.csv`) and a single-file desktop application accessible to non-technical viewers.
 
-**Demo Video:** [Watch on YouTube](https://www.youtube.com/watch?v=1XpNq_qj1w4)
+**Demo Video:** [Demo Vedio](https://www.youtube.com/watch?v=1XpNq_qj1w4)
 
 ---
 
