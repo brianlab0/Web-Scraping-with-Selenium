@@ -36,7 +36,7 @@ Steam Top Sellers (Taiwan region)
               │
               ▼
    Selenium + ChromeDriver
-   (week-by-week iteration, 2021 → 2024)
+   (week-by-week iteration, 2024 → 2026)
               │
               ▼
        pandas DataFrame
