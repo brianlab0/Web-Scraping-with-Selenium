@@ -166,4 +166,4 @@ Run the third cell (the `SteamAnalyzerGUI` block). The desktop window will open.
 - **Self-contained desktop app** — No web server, no database, no extra build tooling — just Python
 - **Cascading UI controls** — Year-to-week dropdown chaining for fast drill-down
 
----
+
